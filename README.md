@@ -1,7 +1,7 @@
 # Air Quality Analysis - Madrid
 
 ##  Project Overview
-This project analyzes air quality data in Madrid using historical data from monitoring stations between 2001 and 2018.
+This project analyzes air quality data in Madrid using historical data from monitoring stations for year 2018.
 
 The objective is to identify pollution patterns, detect extreme events, and explore spatial distribution using georeferenced stations.
 
