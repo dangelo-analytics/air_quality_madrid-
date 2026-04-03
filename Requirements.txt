@@ -1,10 +1,5 @@
-
-
-
-**Requirements**
-------------
--pandas
--numpy
--matplotlib
--seaborn
+pandas
+numpy
+matplotlib
+seaborn
 
