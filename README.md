@@ -59,7 +59,17 @@ air-quality-madrid/
 ---
 
 ## Key Insights
-(AQUÍ después metes tus hallazgos)
+Insight 1 — patrón temporal
+
+“Se observa un aumento sistemático de contaminantes durante las horas punta (mañana, ~ 9:00 am y tarde ~ 05:00 pm ), lo que sugiere una fuerte relación con la actividad vehicular.”
+
+Insight 2 — variabilidad espacial
+
+“Las estaciones presentan diferencias significativas en magnitud, indicando que la contaminación no es homogénea y depende de la ubicación dentro de la ciudad.”
+
+Insight 3 — comportamiento dinámico
+
+“Al analizar la evolución por hora, se detectan cambios rápidos en los niveles de contaminación, lo que evidencia la importancia de monitoreo en tiempo real para la toma de decisiones.”
 
 ---
 
