@@ -1,5 +1,4 @@
 # Air Quality Analysis - Madrid
-
 ##  Project Overview
 This project analyzes air quality data in Madrid using historical data from monitoring stations for year 2018.
 
@@ -65,5 +64,5 @@ air-quality-madrid/
 ---
 
 ## Preview
-![Dashboard](Images/dashboard_preview.png)
+![Dashboard](Images/calidad-air-madrid.png)
 
